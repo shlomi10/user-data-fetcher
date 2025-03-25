@@ -60,6 +60,13 @@ brew install allure
 brew install allure
 ```
 
+4. Install Allure Commandline:
+add this to .env file
+```bash
+BASE_URL=https://jsonplaceholder.typicode.com
+USERS=/users
+```
+
 ## 📋 Requirements
 
 requirements.txt:
