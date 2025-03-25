@@ -1,0 +1,13 @@
+# Ignore log files
+*.log
+
+# Ignore compiled Java files
+*.class
+
+# Ignore IDE-specific files
+.idea/
+.vscode/
+
+# Ignore environment variables
+utils/.env
+
