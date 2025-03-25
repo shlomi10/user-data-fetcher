@@ -61,6 +61,7 @@ brew install allure
 ```
 
 4. add .env file under utils folder:
+
 add this to .env file
 ```bash
 BASE_URL=https://jsonplaceholder.typicode.com
