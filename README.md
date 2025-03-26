@@ -1,23 +1,24 @@
 # 🚀 User Data Fetcher
 
-![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
-![API](https://img.shields.io/badge/API-JSONPlaceholder-green.svg)
-![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![API](https://img.shields.io/badge/API-JSONPlaceholder-00A99D?style=for-the-badge&logo=json&logoColor=white)](https://jsonplaceholder.typicode.com/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-C70D2C?style=for-the-badge&logo=allure&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-C70D2C?style=for-the-badge&logo=allure&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-008CBA?style=for-the-badge&logo=python-requests&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-0052CC?style=for-the-badge&logo=python&logoColor=white)
+![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen?style=for-the-badge&logo=dependabot&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Build Passing](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Coverage](https://img.shields.io/badge/Coverage-90%25-green?style=for-the-badge)
+![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge&logo=python&logoColor=white)
+![GitHub Stars](https://img.shields.io/github/stars/shlomi10/user-data-fetcher?style=for-the-badge&logo=github)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
 
 ## 📝 Overview
 
 A robust Python script for fetching, validating, and processing user data from the JSONPlaceholder API with comprehensive logging and error handling.
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
-  <rect width="400" height="200" fill="#3498db"/>
-  <text x="200" y="100" text-anchor="middle" font-size="40" fill="white" font-family="Arial, sans-serif">
-    User Data
-  </text>
-  <text x="200" y="150" text-anchor="middle" font-size="20" fill="white" font-family="Arial, sans-serif">
-    Fetcher
-  </text>
-</svg>
 
 ## ✨ Features
 
