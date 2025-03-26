@@ -63,7 +63,7 @@ scoop install allure
 
 5. add .env file under utils folder:
 
-add this to .env file
+   add this to .env file
 ```bash
 BASE_URL=https://jsonplaceholder.typicode.com
 USERS=/users
