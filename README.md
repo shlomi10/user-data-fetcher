@@ -1,6 +1,6 @@
 # 🚀 User Data Fetcher
 
-![Python Version](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python Version](https://img.shields.io/badge/python-3.12+-blue.svg)
 ![API](https://img.shields.io/badge/API-JSONPlaceholder-green.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -57,10 +57,10 @@ pip install -r requirements.txt
 brew install allure
 
 # On Windows/Linux (with Homebrew)
-brew install allure
+scoop install allure
 ```
 
-4. add .env file under utils folder:
+5. add .env file under utils folder:
 
 add this to .env file
 ```bash
