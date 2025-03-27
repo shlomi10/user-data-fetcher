@@ -11,7 +11,7 @@
 ![Dependencies](https://img.shields.io/badge/Dependencies-Up%20to%20Date-brightgreen?style=for-the-badge&logo=dependabot&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Build Passing](https://img.shields.io/badge/Build-Passing-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white)
-![Coverage](https://img.shields.io/badge/Coverage-90%25-green?style=for-the-badge)
+![Coverage](https://img.shields.io/badge/Coverage-100%25-green?style=for-the-badge)
 ![Code Style: Black](https://img.shields.io/badge/Code%20Style-Black-000000?style=for-the-badge&logo=python&logoColor=white)
 ![GitHub Stars](https://img.shields.io/github/stars/shlomi10/user-data-fetcher?style=for-the-badge&logo=github)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white)
