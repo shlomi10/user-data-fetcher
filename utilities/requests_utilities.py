@@ -63,16 +63,6 @@ class RequestsUtilities:
             logger.error(f"Error fetching response: {e}")
             return Response()
 
-    # Converting a JSON string into a Python dictionary
-    @allure.step("Converting JSON string to dictionary")
-    def convert_json_to_dict(self, data: str) -> dict:
-        try:
-            logger.info(f"success parsing JSON string")
-            return json.loads(data)
-        except json.JSONDecodeError as e:
-            logger.error(f"Error parsing JSON string: {e}")
-            return {}
-
     # Validate email format
     @allure.step("Validating email format: {email}")
     def validate_email(self, email: str):
